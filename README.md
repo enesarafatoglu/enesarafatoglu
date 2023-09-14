@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="800px" style="max-width: 100%; display: inline-block; margin-right: 100px;">
+  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="800px" style="margin-right: 100px;">
 </div>
 <h1 align="center">Hi 👋, I'm Enes Arafatoğlu</h1>
 <h3 align="center">A passionate jr. full-stack developer from Türkiye</h3>
