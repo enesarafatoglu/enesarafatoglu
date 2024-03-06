@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesarafatoglu&label=Profile%20views&color=0e75b6&style=flat" alt="enesarafatoglu" /> </p>
 
-- 🔭 I’m currently working on **Api with JavaScript**
+- 🔭 I’m currently working on **ASP.NET Projects**
 
-- 🌱 I’m currently learning **React and Vue.js**
+- 🌱 I’m currently learning **ASP.NET Core**
 
-- 💬 Ask me about **JavaScript and Machine Learning**
+- 💬 Ask me about **Web Development and Artificial Intelligence**
 
 - 📫 How to reach me **enessarafatogluu@gmail.com**
 
