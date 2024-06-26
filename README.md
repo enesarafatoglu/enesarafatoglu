@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="800px" style="margin-right: 100px;">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif">
 </div>
 <h1 align="center">Hi 👋, I'm Enes Arafatoğlu</h1>
-<h3 align="center">A passionate jr. full-stack developer from Türkiye</h3>
+<h3 align="center">A passionate jr. data analyst from Türkiye</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesarafatoglu&label=Profile%20views&color=0e75b6&style=flat" alt="enesarafatoglu" /> </p>
 
-- 🔭 I’m currently working on **Node.js Projects**
+- 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Python and Tensorflow**
 
-- 💬 Ask me about **Full-Stack Web Development**
+- 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **enessarafatogluu@gmail.com**
 
@@ -24,6 +24,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a> 
+    <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    </a> 
+    <a href="https://numpy.org" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+    </a> 
+    <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    </a> 
+    <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit_learn" width="40" height="40"/>
+    </a> 
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">  
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+    </a> 
     <a href="https://www.w3schools.com/html" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
     </a> 
@@ -56,24 +74,6 @@
     </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a> 
-    <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    </a> 
-    <a href="https://numpy.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-    </a> 
-    <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    </a> 
-    <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit_learn" width="40" height="40"/>
-    </a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">  
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
     </a> 
     <a href="https://www.w3schools.com/cs" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
