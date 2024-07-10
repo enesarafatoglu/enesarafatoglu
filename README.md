@@ -79,7 +79,7 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enesarafatoglu&show_icons=true&locale=en&layout=compact" alt="enesarafatoglu" height="195" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enesarafatoglu&show_icons=true&locale=en&layout=compact" alt="enesarafatoglu" height=195 />
 </p>
 
 <p>&nbsp;
