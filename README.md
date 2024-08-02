@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python and Tensorflow**
 
-- 💬 Ask me about **Data Analytics, ML and DL**
+- 💬 Ask me about **Data Analysis, ML and DL**
 
 - 📫 How to reach me **enessarafatogluu@gmail.com**
 
